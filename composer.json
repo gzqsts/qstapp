@@ -1,0 +1,16 @@
+{
+  "name": "gzqsts/qstapp",
+  "type": "library",
+  "license": "MIT",
+  "description": "qstapp core plugin",
+  "require": {
+    "php": "^7.1||^8.0",
+    "ext-json": "*",
+    "firebase/php-jwt": "^6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Gzqsts\\Qstapp\\": "src"
+    }
+  }
+}
