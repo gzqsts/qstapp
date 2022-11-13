@@ -3,6 +3,12 @@
   "type": "library",
   "license": "MIT",
   "description": "qstapp core plugin",
+  "authors": [
+    {
+      "name": "gzqsts",
+      "email": "11977315@qq.com"
+    }
+  ],
   "require": {
     "php": "^7.1||^8.0",
     "ext-json": "*",
